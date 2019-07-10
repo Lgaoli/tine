@@ -15,7 +15,7 @@
 ```bash
 
 # clone或者download项目
-git clone https://github.com/hicoldcat/TimeCat.git
+git clone https://github.com/Lgaoli/tine.git
 
 # 进入项目文件夹
 cd TimeCat
@@ -28,16 +28,13 @@ npm install
 项目运行
 --------
 
-```bash
-# serve with hot reload at localhost:8080
+
 npm run dev
-```
 
 项目编译打包
 ------------
 
 ```bash
-# build for production with minification
 npm run build
 
 ```
